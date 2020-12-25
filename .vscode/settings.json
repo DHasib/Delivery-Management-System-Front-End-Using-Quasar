@@ -1,0 +1,32 @@
+{
+  "files.watcherExclude": {
+    "/.git/objects/": true,
+    "/.git/subtree-cache/": true,
+    "/node_modules/*/": true
+  },
+  "editor.defaultFormatter": "octref.vetur",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "html.format.wrapLineLength": 160,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+      "vetur.format.defaultFormatterOptions": {
+        "prettyhtml": {
+          "printWidth": 160,
+          "singleQuote": false
+        }
+        ,
+        "prettier-eslint": {
+          "printWidth": 180,
+          "singleQuote": true,
+          "semicolon": false,
+          "space-before-function-paren": true
+        }
+      },
+  "workbench.colorTheme": "Visual Studio Dark"
+
+}
+
+
+
+
+
